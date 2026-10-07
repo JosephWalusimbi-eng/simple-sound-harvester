@@ -1,0 +1,6 @@
+Reference,Qty,Value,Description,Example Part,Package/Footprint
+J1,1,Piezo_Input,2-position screw terminal for piezo element leads,Generic 5.08mm pitch THT terminal block,TerminalBlock_Phoenix_MKDS-1.5-2-5.08
+U1,1,Bridge_Rectifier,Full-wave bridge rectifier (or 4x 1N5817 Schottky diodes),HD01 / MB10S,Diode_Bridge_DIP-4_W7.62mm
+C1,1,100uF,Smoothing/storage electrolytic capacitor (16V+),Generic 100uF 16V radial electrolytic,CP_Radial_D8.0mm_P3.50mm
+D1,1,5.1V,Zener diode voltage clamp,1N5231B,D_DO-35_SOD27_P7.62mm
+J2,1,To_Storage_Load,2-position screw terminal to supercapacitor/battery and/or load,Generic 5.08mm pitch THT terminal block,TerminalBlock_Phoenix_MKDS-1.5-2-5.08
